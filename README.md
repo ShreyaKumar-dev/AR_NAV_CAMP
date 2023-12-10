@@ -39,4 +39,4 @@ To tackle lack of accurate and user-friendly indoor navigation tools.
 <br>
 
 <h2>Process Design</h2>
-![Alt text](image.png)
+<img src="Process_Design.png" width="300px">
