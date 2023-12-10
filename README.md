@@ -18,12 +18,10 @@ To tackle lack of accurate and user-friendly indoor navigation tools.
 
 <h2>Architechture of the application</h2>
 <h6>1. Hardware Components:</h6>
-<br>
 <b>1.1 User device:</b> To run application <br>
 <b>1.2 Sensors:</b> Camera (captures user’s movements, orientations, and visual data for precise indoor positioning and AR overlays.)
 <br><br>
 <h6>2. Software Components:</h6>
-<br>
 <b>2.1 Operating System:</b> Android or IOS <br>
 <b>2.2 AR Development Framework:</b> Unity, ARKit or ARCore (These frameworks enable marker tracking, object recognition, and 3D rendering.)
 <br><br>
