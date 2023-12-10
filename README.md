@@ -23,15 +23,15 @@ To tackle lack of accurate and user-friendly indoor navigation tools.
 <br><br>
 <h6>2. Software Components:</h6>
 <b>2.1 Operating System:</b> Android or IOS <br>
-<b>2.2 AR Development Framework:</b> Unity, ARKit or ARCore (These frameworks enable marker tracking, object recognition, and 3D rendering.)
+<b>2.2 AR Development Framework:</b> Unity, ARKit, or ARCore (These frameworks enable marker tracking, object recognition, and 3D rendering.)
 <br><br>
 <h6>3. Navigation Algorithm and Framework:</h6>
-<b>3.1 Navigation System:</b> It employs advanced navigation algorithms to calculate optimal routes, handle pathfinding, and provide real-time instructions. It retraces user location, destination and surrounding environment. <br>
-<b>3.2 Positioning System:</b> The positioning system uses device camera to determine the user's location accurately.
+<b>3.1 Navigation System:</b> It employs advanced navigation algorithms to calculate optimal routes, handle pathfinding, and provide real-time instructions. It retraces the user's location, destination, and surrounding environment. <br>
+<b>3.2 Positioning System:</b> The positioning system uses a device camera to determine the user's location accurately.
 <br><br>
 <h6>4. User Interface Framework:</h6>
 <b>4.1 UI Components:</b> Components include maps, dropdown menu, and turn-by-turn instructions.
-<b>4.2 Design Principles:</b> The UI design adheres to user experience (UX) and user interface (UI) design principles, ensuring that information is presented clearly and accessibly.
+<b>4.2 Design Principles:</b> The UI design adheres to user experience (UX) and user interface (UI) design principles, ensuring that information is presented clearly and accessible.
 <br><br>
 <h6>5. Integration and Compatibility:</h6>
 <b>5.1 Device Compatibility:</b> The application is designed to be compatible with a range of user devices (smartphones and tablets). It adapts to different screen sizes and capabilities. <br>
@@ -39,4 +39,5 @@ To tackle lack of accurate and user-friendly indoor navigation tools.
 <br>
 
 <h2>Process Design</h2>
-![Alt text](image.png)
+![Process Design](https://github.com/ShreyaKumar-dev/AR_NAV_CAMP/assets/128055997/e1b81a8f-4fee-4e2b-973f-973479be6947)
+
