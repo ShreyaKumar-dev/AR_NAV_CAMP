@@ -39,6 +39,4 @@ To tackle the lack of accurate and user-friendly indoor navigation tools.
 <br>
 
 <h2>Process Design</h2>
-
-
-
+![image](https://github.com/ShreyaKumar-dev/AR_NAV_CAMP/assets/128055997/e50cc2fe-5ccd-44a5-a288-7fbed24c4127)
