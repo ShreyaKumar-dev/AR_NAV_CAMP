@@ -39,4 +39,11 @@ To tackle the lack of accurate and user-friendly indoor navigation tools.
 <br>
 
 <h2>Process Design</h2>
-<img src="Process_Design.png">
+<img src="images/Process_Design.png" width="600px" height="400px">
+
+<h2>Algorithm Used</h2>
+<b>1. NavMesh tools:</b> To generate a walkable surface map of the campus environment. Defined regions accessible to users, considering obstacles, buildings, and restricted areas.
+<br><br>
+<b>2. A* Algorithm:</b> To calculate shortest path.
+
+<h2>Design</h2>
