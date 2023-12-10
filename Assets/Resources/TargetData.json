@@ -1,0 +1,216 @@
+{
+	"TargetList": [
+		{
+			"Name": "Lab308",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 68.42,
+				"y": 13.39,
+				"z": 54.99
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Washroom",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 35.12,
+				"y": 13.39,
+				"z": 70.18
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "ServerRoom",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 28.9,
+				"y": 13.39,
+				"z": 53.04
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": -90.28,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "CC",
+			"FloorNumber": 0,
+			"Position": {
+				"x": -28.72,
+				"y": 13.39,
+				"z": 63.32
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": -90.28,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "FacultyOfExtc",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 51.3,
+				"y": 13.39,
+				"z": 11.9
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Lab307",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 77.97,
+				"y": 13.39,
+				"z": 55.16
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Lab306",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 131.44,
+				"y": 13.39,
+				"z": 58.45
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Lab305",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 143.09,
+				"y": 13.39,
+				"z": 58.65
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "CR302",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 177.83,
+				"y": 8.5,
+				"z": 57.71
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 90.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "CR303",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 177.61,
+				"y": 8.5,
+				"z": 70.4
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 90.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "CR304",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 176.32,
+				"y": 8.5,
+				"z": 144.16
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 90.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Lab313",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 175.95,
+				"y": 8.5,
+				"z": 165.42
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 90.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "Lab314",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 175.26,
+				"y": 8.5,
+				"z": 205.2
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 90.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "ExamCell",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 170.6,
+				"y": 8.5,
+				"z": 234.34
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 14.0,
+				"z": 0.0
+			}
+		},
+		{
+			"Name": "CR301",
+			"FloorNumber": 0,
+			"Position": {
+				"x": 178.55,
+				"y": 9.63,
+				"z": 15.76
+			},
+			"Rotation": {
+				"x": 0.0,
+				"y": 90.0,
+				"z": 0.0
+			}
+		},
+		
+		}
+	]
+}

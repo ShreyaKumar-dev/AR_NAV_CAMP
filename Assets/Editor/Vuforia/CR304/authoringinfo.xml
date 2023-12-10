@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.1" bbox="-11.7783 -6.8453 10.2840 6.2814 -1.6020 31.4243" targetId="56b7d97954bf486f8c1e9c74393b0628" name="CR304" pathAuthoring="56b7d97954bf486f8c1e9c74393b0628_authoring.glb" pathOcclusion="56b7d97954bf486f8c1e9c74393b0628_occlusion.3dt" pathNavMesh="56b7d97954bf486f8c1e9c74393b0628_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.1" bbox="-2.8747 -8.8377 20.4163 23.0772 -0.0024 48.4704" targetId="663fcfbd85d749e682d814c5a72715ad" name="ExamCell" pathAuthoring="663fcfbd85d749e682d814c5a72715ad_authoring.glb" pathOcclusion="663fcfbd85d749e682d814c5a72715ad_occlusion.3dt" pathNavMesh="663fcfbd85d749e682d814c5a72715ad_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>

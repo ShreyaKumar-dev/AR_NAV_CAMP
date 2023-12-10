@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.1" bbox="-9.6574 -2.0466 2.6248 18.1341 3.7589 28.5779" targetId="7f1c9dcfc06f412da3e1286e12106953" name="Stairs" pathAuthoring="7f1c9dcfc06f412da3e1286e12106953_authoring.glb" pathOcclusion="7f1c9dcfc06f412da3e1286e12106953_occlusion.3dt" pathNavMesh="7f1c9dcfc06f412da3e1286e12106953_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>
