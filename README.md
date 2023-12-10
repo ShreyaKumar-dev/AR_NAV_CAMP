@@ -39,11 +39,23 @@ To tackle the lack of accurate and user-friendly indoor navigation tools.
 <br>
 
 <h2>Process Design</h2>
-<img src="images/Process_Design.png" width="600px" height="400px">
+<img src="./images/Process_Design.png" width="600px" height="400px">
 
 <h2>Algorithm Used</h2>
-<b>1. NavMesh tools:</b> To generate a walkable surface map of the campus environment. Defined regions accessible to users, considering obstacles, buildings, and restricted areas.
+<b>1. NavMesh tools</b> to generate a walkable surface map of the campus environment. Defined regions accessible to users, considering obstacles, buildings, and restricted areas.
 <br><br>
-<b>2. A* Algorithm:</b> To calculate shortest path.
+<b>2. A* Algorithm</b> to calculate shortest path.
 
 <h2>Design</h2>
+<img src="./images/stage 1.png" height="300px">
+<p>Stage 1: Start of App</p> <br>
+<img src="./images/stage 2.png" height="300px">
+<p>Stage 2: Homepage</p> <br>
+<img src="./images/stage 3.png" height="300px">
+<p>Stage 3: Bracode Scanner</p> <br>
+<img src="./images/stage 4.png" height="300px">
+<p>Stage 4: Loading Animation</p> <br>
+<img src="./images/stage 5.png" height="300px">
+<p>Stage 5: Destination Selection using Drop-Down Box</p> <br>
+<img src="./images/stage 6.png" height="300px">
+<p>Stage 6: Rendering Guidline</p>
