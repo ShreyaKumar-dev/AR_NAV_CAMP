@@ -12,7 +12,7 @@ To tackle the lack of accurate and user-friendly indoor navigation tools.
 
 <h2>Objective</h2>
 1. Develop an AR-based indoor navigation system that can accurately guide users to their desired destinations within complex indoor environments.<br>
-2. Create a user interface that is easy to understand and accessible.
+2. Create a user interface that is easy to understand and accessible.<br>
 3. Implement real-time positioning and mapping technology to provide up-to-date navigation instructions.
 <br>
 
